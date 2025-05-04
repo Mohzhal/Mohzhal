@@ -62,6 +62,7 @@ Saya percaya bahwa antarmuka yang baik adalah kunci dari pengalaman pengguna yan
 
 > *“Belajar bukan tentang siapa yang tercepat, tapi siapa yang tidak berhenti.”* 💪
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohzhal/Mohzhal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohzhal/Mohzhal/output/pacman-contribution-graph.svg">

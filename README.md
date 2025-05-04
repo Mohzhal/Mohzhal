@@ -1,7 +1,11 @@
 <h1 align="center">Hi there! 👋, I'm Muhammad Rizal</h1>
 <p align="center">
+  <img src="banner.png" alt="Banner GitHub Muhammad Rizal" />
+</p>
+<p align="center">
   🌐 Frontend Developer | 🎨 UI/UX Designer | 🚀 Aspiring Fullstack Developer  
 </p>
+
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61550239772120" target="_blank">
@@ -51,7 +55,7 @@ Saya percaya bahwa antarmuka yang baik adalah kunci dari pengalaman pengguna yan
 
 ### 📫 Hubungi Saya
 
-- ✉️ Email: rizal180204@gmail.com  
+- ✉️ Email: mohzhal@gmail.com  
 - 💼 LinkedIn: [Muhammad Rizal](https://www.linkedin.com/in/muhammad-rizal-0742ba179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---

@@ -55,7 +55,7 @@ Saya percaya bahwa antarmuka yang baik adalah kunci dari pengalaman pengguna yan
 
 ### 📫 Hubungi Saya
 
-- ✉️ Email: mohzhal@gmail.com  
+- ✉️ Email: rizal180204@gmail.com  
 - 💼 LinkedIn: [Muhammad Rizal](https://www.linkedin.com/in/muhammad-rizal-0742ba179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:002b66&height=220&section=header&text=Muhammad%20Rizal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ERP%20Manufacturing%20%26%20Frappe%20Developer&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:002b66&height=220&section=header&text=Muhammad%20Rizal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ERP%20Manufacturing%20and%20Frappe%20Developer&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -17,6 +17,12 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzOHg3Yzl2eG5qN3J5ZjFidjF4ZzNmM2w3aHJscXk5aGNtN3pxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="3D Smart Manufacturing Pipeline" />
 </div>
 
 <br/>
